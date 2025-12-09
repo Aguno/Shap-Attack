@@ -13,7 +13,7 @@ This repository contains code and experiments for the paper:
 > **SHAP-based Explanations are Sensitive to Feature Representation**  
 > Hyunseung Hwang, Andrew Bell, Joao Fonseca, Venetia Pliatsika,  
 > Julia Stoyanovich, and Steven Euijong Whang.  
-> *FAccT '25, Athens, Greece.* :contentReference[oaicite:0]{index=0}
+> *FAccT '25, Athens, Greece.* : [Paper on arXiv](https://arxiv.org/abs/2505.08345)
 
 ---
 
@@ -73,3 +73,12 @@ We treat **age** and **race** as protected features and one-hot encode all categ
 
 ---
 
+@inproceedings{hwang2025shapsensitive,
+  title        = {SHAP-based Explanations are Sensitive to Feature Representation},
+  author       = {Hwang, Hyunseung and Bell, Andrew and Fonseca, Joao and Pliatsika, Venetia and Stoyanovich, Julia and Whang, Steven Euijong},
+  booktitle    = {Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)},
+  year         = {2025},
+  address      = {Athens, Greece},
+  publisher    = {ACM},
+  doi          = {10.1145/3715275.3732105}
+}
